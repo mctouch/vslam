@@ -1,4 +1,4 @@
-## Visual SLAM
+## Awesome Visual SLAM
 
 ### Articles
 - 2024/03/08 [The 6 Components of a Visual SLAM Algorithm](https://www.thinkautonomous.ai/blog/visual-slam/)
